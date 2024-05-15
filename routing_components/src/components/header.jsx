@@ -39,7 +39,7 @@ const Header = () => {
             <div>
                 <nav>
                     <ul className="flex flex-row gap-2">
-                        <li><a href="/home" className="text-xs hover:underline">home</a></li>
+                        <li><a href="/" className="text-xs hover:underline">home</a></li>
                         <li><a href="/about" className="text-xs hover:underline">about</a></li>
                         <li><a href="/contact" className="text-xs hover:underline">contact</a></li>
                         <li><a href="/login" className="text-xs bg-orange-600 p-1 rounded-lg text-white shadow-lg hover:bg-orange-500">login</a></li>
