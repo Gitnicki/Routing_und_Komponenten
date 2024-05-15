@@ -6,7 +6,7 @@ Entwickle eine React-App, die der HTML-Vorlage im Anhang folgt und über grundle
 # Funktionen:
 - Tailwind ist in der React App integriert
 - Jede Seite soll über die Navigation aufrufbar sein
-- Auf der Startseite erscheint eine dynamische Liste mit section aus dem Tailwind - - Beispiel von heute vormittag
+- Auf der Startseite erscheint eine dynamische Liste mit section aus dem Tailwind - Beispiel von heute vormittag
 - Wenn ein Navigationspunkt aktiv ist, soll dies erkenntlich sein - verwende dafür einen Tailwind Style
 # Hinweise:
 - Erstelle die grundlegenden Komponenten: `Header`, `Footer` und `Main`.
